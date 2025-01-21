@@ -1,0 +1,13 @@
+.container{
+    background-color: blueviolet;
+    width: 600px;
+    height: 500px;
+    padding: 15px;
+    display: flex;
+    gap: 10px;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}

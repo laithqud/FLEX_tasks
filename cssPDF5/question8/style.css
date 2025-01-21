@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    flex: 1 1 50px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+}
+.div1{
+    background-color: aquamarine;
+    width: 50%;
+    flex: 2;
+}
+.div2{
+    background-color: cornflowerblue;
+    width: 50%;
+    flex: 1;
+}

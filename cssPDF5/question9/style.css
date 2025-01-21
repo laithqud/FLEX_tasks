@@ -1,0 +1,51 @@
+.container{
+    width: 700px;
+    border: 3px solid gold;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 5px;
+    gap: 5px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+
+}
+.box1{
+    background-color: aqua;
+   
+}
+.box2{
+    background-color: blue;
+}
+.box3{
+    background-color: blueviolet;
+}
+.box4{
+    background-color: red;
+}
+.box5{
+    background-color: green;
+}
+.box6{
+    background-color: yellow;
+}
+.box7{
+    background-color: purple;
+}
+.box8{
+    background-color: pink;
+}
+.box9{
+    background-color:  coral;
+}
+.box10{
+    background-color: crimson;
+    
+}

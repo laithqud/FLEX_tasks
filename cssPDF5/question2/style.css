@@ -1,0 +1,23 @@
+nav{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.circle{
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    border-radius: 20px;
+    margin: 10px 0 0 10px;
+}
+p{
+    display: inline;
+}
+.right-link{
+    width: 200px;
+    padding-top: 5px;
+    padding-right: 6px;
+    display: flex;
+    justify-content: space-between;
+}

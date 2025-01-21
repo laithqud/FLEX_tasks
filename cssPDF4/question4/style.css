@@ -1,0 +1,73 @@
+body {
+    display: flex;
+    justify-content: center;  
+    align-items: center;      
+    height: 100vh;            
+    margin: 0;                
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;         
+    width: 500px;            
+    height: 400px;           
+    position: relative;      
+}
+.cube{
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+    text-align: center;
+    color: black;
+    position: absolute;
+}
+.cube1{
+    background-color: blueviolet;
+    top:  80px;
+    left: 80px;
+    z-index: 10 ;
+}
+.cube2{
+    top: 20px;
+    left: 140px;
+}
+.cube3{
+    top: 20px;
+    left: 260px;
+}
+.cube4{
+    top: 20px;
+    left: 380px;
+}
+.cube5{
+    top: 140px;
+    left: 20px;
+}
+.cube6{
+    top: 140px;
+    left: 140px;
+}
+.cube7{
+    top: 140px;
+    left: 260px;
+}
+.cube8{
+    top: 140px;
+    left: 380px;
+}
+.cube9{
+    top: 260px;
+    left: 20px;
+}
+.cube10{
+    top: 260px;
+    left: 140px;
+}
+.cube11{
+    top: 260px;
+    left: 260px;
+}
+.cube12{
+    top: 260px;
+    left: 380px;
+}

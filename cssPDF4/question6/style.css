@@ -1,0 +1,14 @@
+body{
+    padding-bottom:2000px;
+}
+.navBar{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    position: sticky;
+    top: 0;
+}
+.navContent{
+    color: white;
+    display: inline;
+}

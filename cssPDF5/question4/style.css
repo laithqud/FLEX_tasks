@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: flex-start;
+    background-color: skyblue;
+    width: 600px;
+}
+.box{
+    width: 100px;
+    height: 200px;
+    background-color: #4c569e;
+    border-radius: 15px;
+    padding: 10px;
+    color: white;
+}
