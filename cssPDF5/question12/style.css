@@ -147,6 +147,8 @@ a:hover{
 }
 .imgText{
     display: flex;
+    font-family: 'Roboto';
+    font-size: 15px;
 }
 .circleChannel{
     width: 40px;
